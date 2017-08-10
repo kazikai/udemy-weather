@@ -9,6 +9,7 @@
   "author": "kazikai <kazikai84@gmail.com> (http://blog.kazikai.net)",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.16.2",
     "request": "^2.81.0",
     "yargs": "^4.8.1"
   }
